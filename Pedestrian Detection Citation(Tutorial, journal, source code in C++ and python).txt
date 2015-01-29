@@ -17,7 +17,7 @@ http://en.wikipedia.org/wiki/Pedestrian_detection (useful in references section)
 http://vision.ucsd.edu/~pdollar/files/papers/DollarPAMI12peds.pdf
 http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/
 http://www.cvc.uab.es/~asappa/publications/C__LNCS_4477_547.pdf
-
+https://www.youtube.com/watch?v=Cil-a4UVzDk
 
 
 pedestrian detection opencv source code
