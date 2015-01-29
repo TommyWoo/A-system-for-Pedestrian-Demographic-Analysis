@@ -15,8 +15,9 @@ _ OpenCV researched and Pedestrian Detection Journal research.
 _ Other related information research.
 _ Appointment with Dr.Tay and prepared for report, question and to do list.
   _ Report - Study about OpenCV and Reading Pedestrian Detection Journal.
-  _ Issue - Consideration the use of Camera Quality.
-  _ Planning - Research and Study for the cases study of system (Pedestrian Detection, Pedestrian Analysis and Report Generation).
+  _ Issue - Consideration the use of hardware (The use of camera and quality selection).
+	- Confirm again the overall output/expectation from Dr.Tay to the tile.
+  _ Planning - Research and Study for the cases study of system (Pedestrian Detection Study, Pedestrian Analysis Accuracy, Pedestrian Detection Source Code and Report Generation).
 
 2/2/2015 ~ 8/2/2015 (Week 4)
 
