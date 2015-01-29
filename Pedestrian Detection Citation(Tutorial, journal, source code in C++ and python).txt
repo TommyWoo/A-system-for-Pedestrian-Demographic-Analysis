@@ -1,0 +1,25 @@
+http://iica.de/pd/demos.py
+http://www.researchgate.net/post/Detect_humans_using_OpenCV
+https://chrisjmccormick.wordpress.com/2013/05/09/hog-person-detector-tutorial/
+http://www.magicandlove.com/blog/2011/08/26/people-detection-in-opencv-again/
+http://docs.opencv.org/modules/contrib/doc/facerec/tutorial/facerec_video_recognition.html
+http://docs.opencv.org/modules/contrib/doc/facerec/facerec_tutorial.html
+http://www.codeproject.com/Tips/654838/Detect-and-Recognize-Faces-usin
+https://realpython.com/blog/python/face-recognition-with-python/
+http://blog.drndos.sk/2014/05/how-to-do-face-recognition-in-opencv-and-how-to-improve-it-by-aligning-faces/
+http://stackoverflow.com/questions/19810743/face-recognition-example-using-opencv-and-python (hyperlink inside is useful)
+http://rodrigob.github.io/documents/2014_eccvw_ten_years_of_pedestrian_detection_with_supplementary_material.pdf
+http://rodrigob.github.io/documents/2012_cvpr_pedestrian_detection_at_100_frames_per_second.pdf
+http://cs.nyu.edu/~sermanet/papers/sermanet-cvpr-13.pdf
+https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/leibe-cvpr-05.pdf
+https://www.robots.ox.ac.uk/~vgg/rg/papers/DollarBMVC10FPDW.pdf
+http://en.wikipedia.org/wiki/Pedestrian_detection (useful in references section)
+http://vision.ucsd.edu/~pdollar/files/papers/DollarPAMI12peds.pdf
+http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/
+http://www.cvc.uab.es/~asappa/publications/C__LNCS_4477_547.pdf
+
+
+
+pedestrian detection opencv source code
+pedestrian detection opencv c++ code
+pedestrian detection opencv accuracy
