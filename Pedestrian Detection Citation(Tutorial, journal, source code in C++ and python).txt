@@ -31,6 +31,9 @@ http://www.codeforge.com/article/232969(Vehicle Detection OpenCV)
 http://www.codeforge.com/article/241618(Camera calibration based on OpenCV)
 http://www.codeforge.com/article/244238(http://www.codeforge.com/article/244238)
 
+https://bitbucket.org/rodrigob/doppia
+http://iica.de/pd/demos.py
+
 pedestrian detection opencv source code
 pedestrian detection opencv c++ code
 pedestrian detection opencv accuracy
