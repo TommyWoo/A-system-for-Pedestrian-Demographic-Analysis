@@ -39,6 +39,10 @@ http://www.360doc.com/content/11/1220/16/5087210_173660914.shtml
 https://www.youtube.com/watch?v=bSeFrPrqZ2A(Tutorial: Real-Time Object Tracking Using OpenCV)
 https://www.youtube.com/watch?v=H_wMyUEeIzQ(Mobileye - Pedestrian Detection)
 http://www.codeproject.com/script/Articles/ViewDownloads.aspx?aid=22243
+http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/(Caltech Pedestrian Detection Benchmark)
+https://sites.google.com/site/wujx2001/home/c4(C4: Real-time pedestrian detection)
+http://www.bmva.org/apps%3apedestrian
+http://www.researchgate.net/post/Is_there_any_mature_open_source_human_detection_and_tracking_system_algorithm(discussion)
 
 pedestrian detection opencv source code
 pedestrian detection opencv c++ code
